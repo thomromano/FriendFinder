@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/thomromano/FriendFinder/issues"
   },
-  "homepage": "https://github.com/thomromano/FriendFinder#readme"
+  "homepage": "https://github.com/thomromano/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
 }
